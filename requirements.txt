@@ -1,3 +1,4 @@
-Flask
-textract
-requests
+streamlit
+google-generativeai
+python-dotenv
+pymupdf
